@@ -1,6 +1,3 @@
-Claro! Vou organizar e acrescentar o restante dos tópicos com emojis e ícones, mantendo o mesmo padrão visual. Aqui está a versão completa e organizada:
-
----
 
 # 📚 **Apostila Concurso Biomédico EBSERH 2025**  
 📚 **Apostila Completa para Concurso Biomédico EBSERH 2025**  
@@ -432,11 +429,4 @@ Entendido! Vou continuar organizando o restante do conteúdo do arquivo, adicion
 
 ### 📱 **Desenvolvido por João Ricardo**  
 👩‍💻 **Engenheiro da Computação**  
-📱 **Instagram**: [@joaoricardo.pe](https://instagram.com/joaoricardo.pe)  
-
----
-
-Espero que esta versão final organizada com emojis e ícones seja útil para você! 😊
----
-
-Espero que essa versão organizada e completa seja útil para você! 😊
+📱 **Instagram**: [@joaoricardo.pe](https://instagram.com/joaoricardo.pe) 
